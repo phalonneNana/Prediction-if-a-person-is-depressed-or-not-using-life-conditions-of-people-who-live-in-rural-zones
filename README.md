@@ -1,0 +1,1 @@
+# Prediction-if-a-person-is-depressed-or-not-using-life-conditions-of-people-who-live-in-rural-zones
